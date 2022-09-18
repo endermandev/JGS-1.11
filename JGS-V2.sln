@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JGS-V2", "JGS-V2\JGS-V2.vcxproj", "{D724CF12-233C-4402-B3B3-4D1A21C6F085}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Build|x64 = Build|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D724CF12-233C-4402-B3B3-4D1A21C6F085}.Build|x64.ActiveCfg = Build|x64
+		{D724CF12-233C-4402-B3B3-4D1A21C6F085}.Build|x64.Build.0 = Build|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBD2F9CF-3F7B-4D29-A5B5-B9989BC5F480}
+	EndGlobalSection
+EndGlobal
