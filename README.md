@@ -1,2 +1,8 @@
 # JGS-1.11
-Fortnite 1.11 Gameserver Leaked
+This is JGS 1.11<br><br>
+
+It works but it has a few issues:<br>
+- Character Parts not working (will fix in a future commit)<br>
+- No Harvesting (will also fix in a future commit)<br><br>
+
+All issues will be fixed + I will add more shit soon <3
